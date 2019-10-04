@@ -10,7 +10,8 @@ class CounterBLoc{
   int get vlaue => _count;
 
   increment(){
-    sc.sink.add(++_count);
+    
+    sc.sink.add(999);
   }
 
   dispose(){

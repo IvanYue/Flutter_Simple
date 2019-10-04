@@ -15,7 +15,6 @@ class AddPageWidgetState extends State<AddPageWidget> {
   
   @override
   Widget build(BuildContext context) {
-
     final bloc = BlocProvider.of(context);
     return Scaffold(
       appBar: AppBar(

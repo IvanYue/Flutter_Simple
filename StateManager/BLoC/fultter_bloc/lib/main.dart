@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fultter_bloc/bloc/bloc_provice.dart';
-import 'package:fultter_bloc/homePage.dart';
+
+import 'bloc/homePage.dart';
 
 void main() => runApp(MyApp());
 
